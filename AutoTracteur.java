@@ -7,4 +7,4 @@ public class AutoTracteur extends Robot {
 		this.deplacement = new Voler();
 		this.manip = new Magnet();
 	}
-}/*aaaaaaaa*/
+}/*aaaaaaaa jacko va perdre vs deku */
