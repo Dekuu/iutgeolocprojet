@@ -5,7 +5,7 @@ package td2.java;
  */
 
 /**
- * @author dominique STRAUSS
+ * @author dominique STRAUSS Khan
  * gere une Casier contenant des Objet(s)
  */
 public class Casier
